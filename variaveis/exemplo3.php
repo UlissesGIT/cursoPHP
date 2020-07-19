@@ -32,4 +32,10 @@
 	$nulo = Null; // Ausência total de valor, não existe dado.
 	$vazio = " "; // Foi iniciado mas não tem informação.
 
+	// A diferença entre Null e vazio dá pra perceber em uma requisição
+	// de banco de dados. 
+	// Se eu marcar como NULL, é que esta informação não existe.
+	// Se eu deixá-la como Vazia, é que NO MOMENTO não existe
+	// informação na consulta.
+
 ?>
