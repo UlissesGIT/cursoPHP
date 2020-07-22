@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 	session_start();
 ?>
 
@@ -28,10 +27,3 @@
 		</form>
 	</body>
 </html>
-=======
-
-	echo "Olá Mundo 456!";
-	echo "Olá Udemy!";
-
-?>
->>>>>>> e0c6300161dc7d26672d8c0b9d727ca87902f1b2
