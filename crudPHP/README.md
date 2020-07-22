@@ -1,2 +1,2 @@
-# Repositorio criado para o Curso de PHP7 Completo 
-# ministrado pela HCode
+# Repositorio criado para estudar CRUD
+# com MySQL.
